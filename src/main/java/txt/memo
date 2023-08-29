@@ -1,0 +1,7 @@
+데이터베이스와 연동되는 작업 : jpa
+jpa 앞단 : service
+service 앞단 : controller
+jpa와 service 사이를 이동 : dto
+
+직렬화 목적
+가지고 있는 객체를 다른 네트워크에 전송하거나 데이터베이스에 보관하기 위해서 마샬링(Marshalling) 작업을 하기 위함
